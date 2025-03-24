@@ -1,0 +1,20 @@
+- name: GitHub
+  url: https://github.com/a-azevedolopes
+  class: icon-github
+  title: Code and more
+
+- name: Linkedin
+  url: https://linkedin.com/in/amandadeazevedolopes/
+  class: icon-linkedin
+  title: "LinkedIn profile"
+
+# - name: Orcid
+#   url: https://orcid.org/0000-0003-3468-3156
+#   class: icon-orcid
+#   title: "Orcid profile"
+
+# - name: Scholar
+#   url: https://scholar.google.com/citations?&user=X4DWalIAAAAJ
+#   class: icon-scholar
+#   title: "Scholar profile"
+
