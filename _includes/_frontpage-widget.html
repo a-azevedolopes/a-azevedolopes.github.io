@@ -1,0 +1,84 @@
+{% comment %}
+*
+*   First the include captures the url and image in a
+*   separate variable to make the code better readable.
+*
+*   These variables are widget_url and widget_image
+*
+{% endcomment %}
+
+{% capture widget_url %}{% if include.widget.url == NULL %}{% elsif include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
+
+{% capture widget_image %}{% if include.widget.image contains 'http' %}{{ include.widget.image }}{% else %}{{ site.urlimg }}{{ include.widget.image }}{% endif %}{% endcapture %}
+
+
+<!-- <div class="medium-6 columns frontpage-widget">
+	{% if include.widget.video %}
+		{{ include.widget.video }}
+	{% elsif widget_url == empty %}
+		{% if widget_image != empty %}<img src="{{ widget_image }}" alt="" />{% endif %}
+	{% else %}
+		<a href="{{ widget_url }}">
+			{% if widget_image != empty %}<img src="{{ widget_image }}" alt="" />{% endif %}
+		</a>
+	{% endif %}
+	<h2 class="font-size-h3 t10">{{ include.widget.title }}</h2>
+
+	{% if include.widget.text != empty %}<p>{{ include.widget.text }}</p>{% endif %}
+	{% if widget_url != empty %}<p><a class="button tiny radius" href="{{ widget_url }}">{{ site.data.language.more }}</a></p>{% endif %}
+</div> -->
+
+
+<div class="{{ include.widget.size }} columns frontpage-widget">
+    {% if include.widget.video %}
+        {{ include.widget.video }}
+    {% elsif widget_url == empty %}
+        {% if widget_image != empty %}<img src="{{ widget_image }}" alt="" />{% endif %}
+    {% else %}
+        <a href="{{ widget_url }}">
+            {% if widget_image != empty %}<img src="{{ widget_image }}" alt="" />{% endif %}
+        </a>
+    {% endif %}
+    <h2 class="font-size-h3 t10">{{ include.widget.title }}</h2>
+
+    {% if include.widget.text != empty %}<p>{{ include.widget.text  | markdownify }}</p>{% endif %}
+    {% if widget_url != empty %}<p><a class="button tiny radius" href="{{ widget_url }}">More</a></p>{% endif %}
+</div>
+
+
+<!-- 
+{% for widget in site.data.widgets %}
+    {% if forloop.index == 1 %}
+        <div class="medium-4 columns frontpage-widget small-12">
+            {% if widget.video %}
+                {{ widget.video }}
+            {% elsif widget.url == NULL %}
+                {% if widget.image != NULL %}<img src="{{ widget.image }}" alt="" />{% endif %}
+            {% else %}
+                <a href="{{ widget.url }}">
+                    {% if widget.image != NULL %}<img src="{{ widget.image }}" alt="" />{% endif %}
+                </a>
+            {% endif %}
+            <h2 class="font-size-h3 t10">{{ widget.title }}</h2>
+
+            {% if widget.text != NULL %}<p>{{ widget.text }}</p>{% endif %}
+            {% if widget.url != NULL %}<p><a class="button tiny radius" href="{{ widget.url }}">More</a></p>{% endif %}
+        </div>
+    {% else %}
+        <div class="medium-8 columns frontpage-widget small-12">
+            {% if widget.video %}
+                {{ widget.video }}
+            {% elsif widget.url == NULL %}
+                {% if widget.image != NULL %}<img src="{{ widget.image }}" alt="" />{% endif %}
+            {% else %}
+                <a href="{{ widget.url }}">
+                    {% if widget.image != NULL %}<img src="{{ widget.image }}" alt="" />{% endif %}
+                </a>
+            {% endif %}
+            <h2 class="font-size-h3 t10">{{ widget.title }}</h2>
+
+            {% if widget.text != NULL %}<p>{{ widget.text }}</p>{% endif %}
+            {% if widget.url != NULL %}<p><a class="button tiny radius" href="{{ widget.url }}">More</a></p>{% endif %}
+        </div>
+    {% endif %}
+{% endfor %} -->
