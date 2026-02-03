@@ -95,10 +95,25 @@ acknowledged as one of the top theses in the field of Statistical Physics defend
 ## Other scientific activities
 <hr>
 
+### Leader of the Onboarding Working Group
+<div style="display: flex; justify-content: space-between;">
+  <span style="flex: 1;"><strong><a href="https://www.postdocnet.mpg.de/" target="_blank">Max Planck PostdocNet</a></strong></span>
+  <span style="width: 200px; text-align: right;"><em> Feb 2022 - Present</em></span>
+</div>
+  I have been actively involved with the Onboarding Working Group, which supports postdocs in the Max Planck Society (MPG) and their families in having a smooth start and pleasant journey in MPG and in Germany. 
+  
+  My role within the group has evolved over time: 
+  I started as a member (Feb 2022 - Feb 2023), then served as co-leader alongside Rana Amini (Feb 2023 - Feb 2024), and have been leading the group since Feb 2024. 
+  
+  As a member of this working group, I have contributed to discussions on Onboarding issues within the Max Planck Society and played a key role in developing the PostdocNet Welcome Package. This concise and transparent guide provides MPG postdocs with essential information on the German Social Security System, salary schemes, and the differences between contracts, stipends, and fellowships. 
+  
+  As leader of the working group, I have also had the opportunity to represent our team at PostdocNet events and collaborate with the Max Planck Central Administration to address Onboarding issues and refine our Welcome Package.
+
+
 ### Postdoc Representative
 <div style="display: flex; justify-content: space-between;">
   <span style="flex: 1;"><strong>Max Planck Institute for Evolutionary Biology</strong>, Plön, Germany</span>
-  <span style="width: 200px; text-align: right;"><em> Nov 2024 - Present</em></span>
+  <span style="width: 200px; text-align: right;"><em> Nov 2024 - Nov 2025</em></span>
 </div>
 <div style="display: flex; justify-content: space-between;">
 <span style="flex: 1;"><strong><a href="https://www.postdocnet.mpg.de/" target="_blank">Max Planck PostdocNet</a></strong></span>
@@ -110,18 +125,17 @@ Organize local Postdoc Retreat and social events to foster a sense of community 
 
 As an external representative at the PostdocNet, I represent the postdocs from the MPI for Evolutionary Biology, communicate with the PostDocNet Steering Group, and also distribute their announcements. 
 
-### Leader of the Onboarding Working Group
+### Co-organiser of the Postdoctoral Retreat 
 <div style="display: flex; justify-content: space-between;">
-  <span style="flex: 1;"><strong><a href="https://www.postdocnet.mpg.de/" target="_blank">Max Planck PostdocNet</a></strong></span>
-  <span style="width: 200px; text-align: right;"><em> Feb 2022 - Present</em></span>
+  <span style="flex: 1;"><strong>Max Planck Institute for Evolutionary Biology</strong>, Plön, Germany</span>
+  <span style="width: 200px; text-align: right;"><em> Nov 2025</em></span>
 </div>
-   The Onboarding Working Group helps MPG postdocs and their families have a smooth start and pleasant journey in MPG and in Germany.
 
-   I first joined the Onboarding Working Group as a member (Feb. 2022 to Feb. 2023), then co-leader with Rana Amini from Feb./2023 to Feb./2024, then becoming the leader from Feb. 2024 onwards. 
-
-   As a member of this working group, I participated in the discussions related to Onboarding issues at the Max Planck Society (MPG). I also helped write the PostdocNet Welcome Package, which aims to provide a concise and transparent guide to the German Social Security System, the German Salary Scheme System, as well as differences between contracts, stipends, and fellowships to MPG postdocs.
-
-   As a leader of this working group, I also have the privilege to represent the working group in PostdocNet events, as well as to collaborate with Max Planck Central Administration on Onboarding issues and our Welcome Package.
+### Co-organiser of the Postdoctoral Retreat 
+<div style="display: flex; justify-content: space-between;">
+  <span style="flex: 1;"><strong>Max Planck Institute for Evolutionary Biology</strong>, Plön, Germany</span>
+  <span style="width: 200px; text-align: right;"><em> Oct 2024</em></span>
+</div>
 
 ### Co-Organizer of the Women in Evolutionary Biology workshop
 <div style="display: flex; justify-content: space-between;">
@@ -134,7 +148,7 @@ Co-organized the workshop along with Dr. Nikoleta Glynatsi, Stella Kyomen, Karem
 ### Co-organiser of the Postdoctoral Retreat 
 <div style="display: flex; justify-content: space-between;">
   <span style="flex: 1;"><strong>Max Planck Institute for Evolutionary Biology</strong>, Plön, Germany</span>
-  <span style="width: 200px; text-align: right;"><em> Oct 2023t</em></span>
+  <span style="width: 200px; text-align: right;"><em> Oct 2023</em></span>
 </div>
 
 ### Postdoc Representative
