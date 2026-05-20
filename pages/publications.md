@@ -16,8 +16,8 @@ See also my <a href="https://orcid.org/0000-0003-3468-3156" target="_blank">ORCI
 
 
 ### Peer reviewed
-
-1.  Stella Kyomen, Maria Alejandra Ramirez, Nikoleta E Glynatsi, Gisela T Rodríguez-Sánchez, **Amanda de Azevedo-Lopes** [Evolution, qpaf255, 2025](https://doi.org/10.1093/evolut/qpaf255)
+1. **Amanda de Azevedo-Lopes**, Arne Traulsen. Multilevel selection in multi-type populations [PNAS Nexus, pgag180, 2026](https://doi.org/10.1093/pnasnexus/pgag180)
+1. Stella Kyomen, Maria Alejandra Ramirez, Nikoleta E Glynatsi, Gisela T Rodríguez-Sánchez, **Amanda de Azevedo-Lopes**. Insights from the “Women in Evolutionary Biology Workshop” on gender equality in science [Evolution, qpaf255, 2025](https://doi.org/10.1093/evolut/qpaf255)
 1. Lucas S. Flores,  **Amanda de Azevedo-Lopes**, Chadi M. Saad-Roy, Arne Traulsen. Seasonal social dilemmas [npj Complexity, v. 2, 17, 2025](https://doi.org/10.1038/s44260-025-00035-1)
 1. Michael Raatz, **Amanda de Azevedo-Lopes**, Karolina Drabik, Arne Traulsen, Bartlomiej Waclaw. Pathogen non-planktonic phases within the urinary tract impact early infection and resistance evolution [ISME, v. 18, wrae191, 2024](https://doi.org/10.1093/ismejo/wrae191)
 1. **Amanda de Azevedo‑Lopes**, Renan A. L. Almeida, Paulo Murilo C. de Oliveira, and Jeferson J. Arenzon. Energy‑lowering and constant‑energy spin flips: Emergence of the percolating cluster in the kinetic Ising model, [Phys. Rev. E, v. 106, p. 044105, 2022](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.044105).
